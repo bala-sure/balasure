@@ -1,2 +1,2 @@
 # git1
-frist git
+the frist git
